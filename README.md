@@ -4,9 +4,7 @@ Dự án này là một ứng dụng vẽ tay sử dụng webcam để nhận di
 
 ---
 
-  <center>
   [![Xem Tài Liệu](https://img.shields.io/badge/Xem-Tài%20Liệu-green)](https://docs.google.com/document/d/12OOda6gAK0OvTL3b-nwiLH6AVl8bIGBD-68NNF4BEkA/edit?tab=t.0)
-  </center>
 
 ---
 
