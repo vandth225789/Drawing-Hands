@@ -12,13 +12,14 @@ Dự án này là một ứng dụng vẽ tay sử dụng webcam để nhận di
 
 ---
 
-## Cấu Trúc Dự Án
-Ứng Dụng Vẽ Bằng Cử Chỉ Bàn Tay
-**├── config.py # Chứa các thiết lập và hàm khởi tạo. **
-**├── drawing.py # Xử lý nhận diện bàn tay và logic vẽ. **
-**├── helpers.py # Các hàm tiện ích hỗ trợ vẽ và tương tác. **
-**├── main.py # Chương trình chính và vòng lặp xử lý. **
-**└── requirements.txt # Danh sách các thư viện cần cài đặt.**
+## Ứng Dụng Vẽ Bằng Cử Chỉ Bàn Tay
+
+- **`config.py`**: Chứa các thiết lập và hàm khởi tạo.
+- **`drawing.py`**: Xử lý nhận diện bàn tay và logic vẽ.
+- **`helpers.py`**: Các hàm tiện ích hỗ trợ vẽ và tương tác.
+- **`main.py`**: Chương trình chính và vòng lặp xử lý.
+- **`requirements.txt`**: Danh sách các thư viện cần cài đặt.
+
 
 
 ---
