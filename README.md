@@ -73,6 +73,7 @@ Dự án này là một ứng dụng vẽ tay sử dụng webcam để nhận di
 
 - **Python**: 3.7 trở lên.
 - **Webcam**: Để nhận diện tay.
+- **Iriun Webcam**: Có thể dùng liên kết với điện thoại thay thế Webcam hệ thống.
 
 ### Các thư viện cần thiết:
 - `opencv-python`
