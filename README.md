@@ -70,7 +70,6 @@ Dự án này là một ứng dụng vẽ tay sử dụng webcam để nhận di
 - **Xóa Màn Hình**: Nhấn nút "Clear".
 - **Thay Đổi Màu**: Nhấn vào một trong các nút màu trên màn hình.
 
----
 
 ## Yêu Cầu Hệ Thống
 
