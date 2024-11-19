@@ -17,7 +17,6 @@ Dự án này là một ứng dụng vẽ tay sử dụng webcam để nhận di
 - **Xóa Màn Hình**: Xóa toàn bộ hình vẽ bằng nút xóa.
 - **Tùy Chỉnh Dễ Dàng**: Điều chỉnh kích thước khung hình, màu sắc và các thiết lập khác trong `config.py`.
 
----
 
 ## Ứng Dụng Vẽ Bằng Cử Chỉ Bàn Tay
 
@@ -28,8 +27,6 @@ Dự án này là một ứng dụng vẽ tay sử dụng webcam để nhận di
 - **`requirements.txt`**: Danh sách các thư viện cần cài đặt.
 
 
-
----
 
 ## Hướng Dẫn Cài Đặt
 
@@ -44,7 +41,7 @@ Dự án này là một ứng dụng vẽ tay sử dụng webcam để nhận di
     ```bash
    python main.py
 
----
+
 
 ## Cách Hoạt Động
 
@@ -65,7 +62,6 @@ Dự án này là một ứng dụng vẽ tay sử dụng webcam để nhận di
 ### **Hàm Tiện Ích (`helpers.py`)**
 - Bao gồm các hàm hỗ trợ vẽ hình, tính khoảng cách và nhận diện nút.
 
----
 
 ## Hướng Dẫn Sử Dụng
 
@@ -94,7 +90,6 @@ Dự án này là một ứng dụng vẽ tay sử dụng webcam để nhận di
 - Thêm các cử chỉ tay nâng cao để điều khiển ứng dụng.
 - Tối ưu hóa hiệu suất cho các thiết bị cấu hình thấp.
 
----
 
 ## Cảm Ơn
 
