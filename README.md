@@ -13,7 +13,7 @@ Dự án này là một ứng dụng vẽ tay sử dụng webcam để nhận di
 ---
 
 ## Cấu Trúc Dự Án
-**Ứng Dụng Vẽ Bằng Cử Chỉ Bàn Tay**
+Ứng Dụng Vẽ Bằng Cử Chỉ Bàn Tay
 **├── config.py # Chứa các thiết lập và hàm khởi tạo. **
 **├── drawing.py # Xử lý nhận diện bàn tay và logic vẽ. **
 **├── helpers.py # Các hàm tiện ích hỗ trợ vẽ và tương tác. **
@@ -35,4 +35,34 @@ Dự án này là một ứng dụng vẽ tay sử dụng webcam để nhận di
 3. **Chạy Ứng Dụng**:
     ```bash
    python main.py
+
+---
+
+## Cách Hoạt Động
+**Cấu Hình (config.py)**
+Kích Thước Khung Hình: Điều chỉnh FRAME_WIDTH và FRAME_HEIGHT để thay đổi kích thước khung hình của webcam.
+Nút Màu: Tùy chỉnh COLOR_BUTTONS để thêm hoặc thay đổi các tùy chọn màu sắc.
+Nút Xóa: Sử dụng CLEAR_BUTTON để định vị lại nút xóa.
+**Logic Chính (main.py)**
+Quay video từ webcam.
+Xử lý các điểm bàn tay bằng MediaPipe Hands.
+Hiển thị và quản lý các phần tử vẽ trên màn hình.
+**Logic Vẽ (drawing.py)**
+Nhận diện cử chỉ tay để bắt đầu, dừng hoặc xóa các nét vẽ.
+Nhận diện tay khi tương tác với nút màu hoặc nút xóa.
+**Hàm Tiện Ích (helpers.py)**
+Bao gồm các hàm hỗ trợ vẽ hình, tính khoảng cách và nhận diện nút.
+## Hướng Dẫn Sử Dụng
+Bắt Đầu Vẽ: Di chuyển ngón trỏ.
+Dừng Vẽ: Đưa ngón cái lại gần ngón trỏ.
+Xóa Màn Hình: Nhấn nút "Clear".
+Thay Đổi Màu: Nhấn vào một trong các nút màu trên màn hình.
+##Yêu Cầu Hệ Thống
+Python 3.7 trở lên.
+Webcam để nhận diện tay.
+## Các thư viện cần thiết:
+opencv-python
+mediapipe
+numpy
+Cài đặt các thư viện bằng lệnh:
 
