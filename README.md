@@ -1,6 +1,8 @@
 # Ứng Dụng Vẽ Bằng Cử Chỉ Bàn Tay Python, OpenCV và MediaPipe
 
 Dự án này là một ứng dụng vẽ tay sử dụng webcam để nhận diện cử chỉ tay và vẽ trên màn hình. Ứng dụng cung cấp các chức năng như xóa màn hình, thay đổi màu vẽ và bắt đầu/dừng vẽ bằng các cử chỉ đơn giản.
+[![Xem Tài Liệu](https://img.shields.io/badge/Xem-Tài%20Liệu-green)](https://docs.google.com/document/d/12OOda6gAK0OvTL3b-nwiLH6AVl8bIGBD-68NNF4BEkA/edit?tab=t.0)
+
 
 ## Tính Năng
 
