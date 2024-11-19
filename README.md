@@ -28,8 +28,8 @@ Dự án này là một ứng dụng vẽ tay sử dụng webcam để nhận di
 
 1. **Clone Repository**:
    ```bash
-   git clone https://github.com/your-repo/drawing-app.git
-   cd drawing-app
+   git clone https://github.com/vandth225789/Drawing-Hands/
+   cd Drawing-Hands
 2. **Cài Đặt Thư Viện: Sử dụng tệp requirements.txt để cài đặt các thư viện cần thiết**:
    ```bash
    pip install -r requirements.txt
@@ -79,7 +79,20 @@ Dự án này là một ứng dụng vẽ tay sử dụng webcam để nhận di
 - `mediapipe`
 - `numpy`
 
-Cài đặt các thư viện bằng lệnh:
-```bash
-pip install -r requirements.txt
+## Nâng Cấp Trong Tương Lai
+
+- Thêm nhiều tùy chọn màu sắc.
+- Hỗ trợ lưu và tải hình vẽ.
+- Thêm các cử chỉ tay nâng cao để điều khiển ứng dụng.
+- Tối ưu hóa hiệu suất cho các thiết bị cấu hình thấp.
+
+---
+
+## Cảm Ơn
+
+- **OpenCV**: Xử lý hình ảnh và khả năng vẽ.
+- **MediaPipe**: Nhận diện cử chỉ tay.
+
+Bạn có thể tùy chỉnh và nâng cấp dự án theo nhu cầu. Chúng tôi hoan nghênh mọi đóng góp!
+
 
